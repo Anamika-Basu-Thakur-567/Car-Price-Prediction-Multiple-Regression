@@ -3,11 +3,12 @@ In this project, I focused on predicting car prices using machine learning techn
 
 Once the data was clean and prepared, I built and fitted a Linear Regression model to predict car prices based on various features such as mileage, year of manufacture, engine size, and more. The model performed well, achieving an R² value of 0.845, which indicates a strong ability to explain the variance in car prices. This project highlights the importance of data preprocessing and effective feature engineering to build accurate and reliable machine learning models for price prediction tasks.
 
-##Features:
-**Exploratory Data Analysis (EDA):** Conducted to understand data patterns, handle missing values, and address outliers.
-**Data Preprocessing:** Managed missing values using imputation techniques and treated outliers to prevent them from affecting the model’s performance.
-**One-Hot Encoding:** Employed to convert categorical variables into binary features, making them compatible with machine learning algorithms.
-**Train-Test Split Optimization:** Used a for loop to find the best random state, ensuring optimal splitting of the data for training and testing.
-**Linear Regression Model:** Fitted to predict car prices, achieving an R² value of 0.845, indicating a strong fit and reliable prediction accuracy.
-**Feature Selection:** Utilized important features such as mileage, engine size, and year of manufacture for price prediction, enhancing the model’s performance.
+## Features:
+-**Exploratory Data Analysis (EDA):** Conducted to understand data patterns, handle missing values, and address outliers.
+-**Data Preprocessing:** Managed missing values using imputation techniques and treated outliers to prevent them from affecting the model’s performance.
+-**One-Hot Encoding:** Employed to convert categorical variables into binary features, making them compatible with machine learning algorithms.
+-**Train-Test Split Optimization:** Used a for loop to find the best random state, ensuring optimal splitting of the data for training and testing.
+-**Linear Regression Model:** Fitted to predict car prices, achieving an R² value of 0.845, indicating a strong fit and reliable prediction accuracy.
+-**Feature Selection:** Utilized important features such as mileage, engine size, and year of manufacture for price prediction, enhancing the model’s performance.
+
 This approach demonstrates how effective data cleaning, feature engineering, and model tuning can lead to a robust and accurate predictive model for car prices.
